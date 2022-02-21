@@ -1,0 +1,15 @@
+body{
+    font-family: 'Lato', sans-serif;
+    background-color: rgb(147, 165, 42) ;
+}
+.abc{
+    background-color: bisque;
+    font-size: 20px;
+}
+.xyz{
+    font-weight: 700;
+    color:black;
+}
+#asd{
+    font-weight: 700;
+}
